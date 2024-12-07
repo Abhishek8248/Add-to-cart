@@ -1,0 +1,19 @@
+.add{
+    background-color: lightgreen;
+    padding: 1rem;
+    border: none;
+    border-radius: 1.5rem;
+}
+
+.move{
+    padding: 1rem;
+    border: solid 2px black;
+    border-radius: 1.5rem;
+}
+
+.sale{
+    background-color: lightgreen;
+    padding: 1rem;
+    border: none;
+    border-radius: 1.5rem;
+}
